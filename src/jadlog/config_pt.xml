@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>jadlog</name>
+    <displayName><![CDATA[Jadlog]]></displayName>
+    <version><![CDATA[1.0.2]]></version>
+    <description><![CDATA[Modulo com o objetivo de facilitar o envio de encomendas pelo sistema de coleta da Jadlog.]]></description>
+    <author><![CDATA[JAdlog]]></author>
+    <tab><![CDATA[shipping_module]]></tab>
+	<confirmUninstall><![CDATA[Tem certeza que quer desinstalar?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
